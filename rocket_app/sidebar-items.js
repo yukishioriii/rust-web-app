@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["main",""]],"mod":[["app","Rocket app configuration."],["domain","Domain modules."],["logger",""]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["get_customer_query","Default implementation for a `GetCustomerQuery`. "]],"struct":[["GetCustomer","Input for a `GetCustomerQuery`. "]],"trait":[["GetCustomerQuery","Get a customer entity. "]],"type":[["Result",""]]});
